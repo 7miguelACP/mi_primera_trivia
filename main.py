@@ -12,7 +12,7 @@ trivia=True
 
 #introduccion
 print("\n Bienvenido a la Trivia de " + RED + "CO" + BLUE +"LO" + AMARILLO + "RES\n" + RESET)
-usuario = input("Ingrese su nombre porfavor y presione \n\n"+RED+"ENTER"+RESET+" para continuar : ")
+usuario = input("Ingrese su nombre por favor y presione \n\n"+RED+"ENTER"+RESET+" para continuar : ")
 print(CYAN + "\n==========" + RED + "==========" + BLUE + "==========" +VERDE + "==========" + MAGENTA + "==========\n" + RESET)
 print(" bienvenido ", usuario,
       "a la trivia de " + RED + "CO" + BLUE + "LO" + AMARILLO + "RES" + RESET)
